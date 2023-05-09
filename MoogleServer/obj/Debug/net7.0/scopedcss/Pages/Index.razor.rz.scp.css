@@ -1,0 +1,24 @@
+.results[b-3asepffdpk] {
+    text-align: left;
+}
+
+.item .title[b-3asepffdpk] {
+    font-size: large;
+    font-weight: bold;
+}
+
+#search:focus[b-3asepffdpk] {
+    outline: 0;
+    box-shadow: 0 0 0 0.0rem rgb(13 110 253 / 25%); ;
+}
+.modal-body[b-3asepffdpk]::-webkit-scrollbar {
+    display: none;
+}
+
+.list-item-documents[b-3asepffdpk] { 
+    opacity: 90%; 
+    border-radius: 35px 5px; 
+    padding: 16px;
+    cursor: pointer;
+    
+}

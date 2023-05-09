@@ -1,0 +1,245 @@
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll

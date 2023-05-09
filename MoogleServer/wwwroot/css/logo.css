@@ -1,0 +1,43 @@
+
+/*In this part we will make the round shape
+    of the face,and the basic structure of face
+        like add some color of face,height,width etc*/
+.face {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+/*In this part we will make
+    the eyes of the face*/
+.eyes {
+    display: flex;
+}
+.eyes .eye {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    display: block;
+    background: #fff;
+    margin: 0 5px;
+    border-radius: 50%;
+    border: solid black;
+    
+    
+}
+.eyes .eye::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    background: #000;
+    border-radius: 50%;
+}
+ 

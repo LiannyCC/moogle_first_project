@@ -1,0 +1,85 @@
+﻿@page "/"
+@using System.Diagnostics;
+@inject IJSRuntime js;
+
+<PageTitle>Moogle!</PageTitle>
+
+<div class="text-light d-flex justify-content-center">
+    <div>
+        <h1 style = "color: black;">M</h1>
+
+    </div>
+    <div class="eyes">
+        <div class="eye"></div>
+        <div class="eye"></div>
+    </div>
+    <div>
+        <h1 style = "color: black;">gle!</h1>
+    </div>
+</div>
+
+    <cite>Made by MATCOM UH</cite>
+
+
+<div class="d-flex justify-content-center m-3">
+    <div class="dropdown">
+
+        <input name="query" class="input me-2 w-100" @onkeyup="KeyHandler" @bind="query" type="search"
+            placeholder="Introduzca su búsqueda" aria-label="Search" autocomplete="off" id="query"
+            data-bs-toggle="dropdown" aria-expanded="false">
+          <ul class="dropdown-menu" id="dropdown-query"> 
+          </ul> 
+
+    </div>
+
+    <button class="cssbuttons-io" id="launch-click" @onclick="RunQuery">
+        <span> Buscar
+        </span>
+    </button>
+
+</div>
+
+<div id="suggestion">
+    @if (!string.IsNullOrEmpty(result.Suggestion))
+    {
+        <div class="text-light">
+            <p style = "color: black;" >¿Quisiste decir <strong><a href="#" @onclick="ChangeQuery">@result.Suggestion</a></strong>?</p>
+        </div>
+    }
+</div>
+
+<ul class="results">
+@foreach (var item in result.Items()) {
+    <li>
+        <div class="item">
+            <p class="title">@item.Title</p>
+            <p> </p>
+            <p>... @item.Snippet ...</p>
+        </div>
+    </li>
+}
+</ul>
+
+@code {
+    private string query = "";
+    private SearchResult result = new SearchResult();
+
+    private void RunQuery() {
+        result = Moogle.Query(query);
+    }
+
+    private void KeyHandler(KeyboardEventArgs args)
+    {
+        if (args.Key == "Enter")
+        {
+            RunQuery();
+        }
+    }
+
+    private void ChangeQuery()
+    {
+        query = result.Suggestion;
+
+        RunQuery();
+    }
+}

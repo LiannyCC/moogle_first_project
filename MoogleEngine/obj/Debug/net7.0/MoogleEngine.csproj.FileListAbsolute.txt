@@ -1,0 +1,84 @@
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/bin/Debug/net7.0/MoogleEngine.deps.json
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/refint/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/moogle-main/MoogleEngine/obj/Debug/net7.0/ref/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/bin/Debug/net7.0/MoogleEngine.deps.json
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/refint/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/My Moogle mejorado/MoogleEngine/obj/Debug/net7.0/ref/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/bin/Debug/net7.0/MoogleEngine.deps.json
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/refint/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/El que tenga miedo a morir que no nazca/MoogleEngine/obj/Debug/net7.0/ref/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/bin/Debug/net7.0/MoogleEngine.deps.json
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/refint/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Flash/MoogleEngine/obj/Debug/net7.0/ref/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/bin/Debug/net7.0/MoogleEngine.deps.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/refint/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado/MoogleEngine/obj/Debug/net7.0/ref/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/bin/Debug/net7.0/MoogleEngine.deps.json
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/refint/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle casi terminado (otra copia)/MoogleEngine/obj/Debug/net7.0/ref/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/bin/Debug/net7.0/MoogleEngine.deps.json
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/bin/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/bin/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/MoogleEngine.AssemblyInfo.cs
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/refint/MoogleEngine.dll
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/MoogleEngine.pdb
+/home/kevin/Escritorio/Lianny/Moogle Finish Lianny RV/MoogleEngine/obj/Debug/net7.0/ref/MoogleEngine.dll
