@@ -29,7 +29,7 @@ La aplicación está dividida en dos componentes fundamentales:
 
 # Sobre la búsqueda <a name = "id1"> </a>
 
-#### Necesitas tener instaldo algún navegador y tener a dotnet disponible, o equivalente a esto tener .NET CORE 6.0 instalado, para ejecutarlo te debes ubicar en la carpeta del proyecto y ejecutar en la terminal de Linux:
+#### Necesitas tener instaldo algún navegador y tener a dotnet disponible, o equivalente a esto tener .NET CORE 7.0 instalado, para ejecutarlo te debes ubicar en la carpeta del proyecto y ejecutar en la terminal de Linux:
 
 ```cs
 make dev
