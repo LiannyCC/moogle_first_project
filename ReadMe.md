@@ -29,6 +29,18 @@ La aplicación está dividida en dos componentes fundamentales:
 
 # Sobre la búsqueda <a name = "id1"> </a>
 
+#### Necesitas tener instaldo algún navegador y tener a dotnet disponible, o equivalente a esto tener .NET CORE 6.0 instalado, para ejecutarlo te debes ubicar en la carpeta del proyecto y ejecutar en la terminal de Linux:
+
+```cs
+make dev
+```
+
+#### Si estás en Windows, debes poder hacer lo mismo desde la terminal del WSL (Windows Subsystem for Linux), el comando ultimate para ejecutar la aplicación es (desde la carpeta raíz del proyecto):
+
+```cs
+dotnet watch run --project MoogleServer
+```
+
 #### Para realizar una búsqueda, solo se necesita introducir una frase en el cuadro de búsqueda y hacer click sobre el botón buscar o bien, presionar la tecla Enter.
 
 #### Implementamos la búsqueda de la manera más inteligente posible, de forma tal que el usuario no necesita limitarse a los documentos donde aparece exactamante la frase introducida por el usuario. 
@@ -77,8 +89,6 @@ Si desea seguir documentadose sobre esto puede dirigirse a: https://es.wikipedia
 + `Moogle` contiene el método `Moogle.Query`. Este método devuelve un objeto de tipo `SearchResult`.
 
 
-```cs
-```
 # Clase DataFile
 **Propiedades de la clase**
 ```cs
